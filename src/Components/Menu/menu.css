@@ -73,3 +73,11 @@ body {
     text-align: center;
   }
 }
+
+.ButtonSubmmit{
+  background-color: black;
+}
+
+.ButtonCategoria{
+  margin-bottom: 20px;;
+}
